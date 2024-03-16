@@ -1,0 +1,27 @@
+pandas 
+gdown
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+ipykernel
+pandas
+pymongo
+from_root
+evidently==0.2.8
+dill
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+uvicorn
+jinja2
+python-multipart
+-e .
